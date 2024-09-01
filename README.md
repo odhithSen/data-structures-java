@@ -78,7 +78,7 @@ To run the code in this repository, you need to have Java Development Kit (JDK) 
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/data-structures-java.git
+git clone https://github.com/odhithSen/data-structures-java.git
 cd data-structures-java
 ```
 
@@ -88,3 +88,6 @@ cd data-structures-java
 javac DataStructureExample.java
 java DataStructureExample
 ```
+
+## License
+Please review the [license](https://github.com/odhithSen/data-structures-java/blob/main/LICENSE.txt)
