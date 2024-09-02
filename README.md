@@ -9,7 +9,6 @@ Welcome to the **Data Structures & Operations** repository! This repository cont
 - [Technologies](#technologies)
 - [Data Structures Implemented](#data-structures-implemented)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [License](#license)
 
 ## Introduction
