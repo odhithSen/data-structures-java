@@ -25,7 +25,6 @@
 *.rbc
 *.class
 *.jad
-*.java
 
 # VS Code files
 .vscode/
