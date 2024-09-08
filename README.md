@@ -22,7 +22,7 @@ This repository provides Java implementations of fundamental data structures suc
 ### TODO
 
 - [x] Add Arrays section
-- [ ] Add Linked Lists section
+- [x] Add Linked Lists section
 - [ ] Add Stacks section
 - [ ] Add Queues section
 - [ ] Add Trees section
