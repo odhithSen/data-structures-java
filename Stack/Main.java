@@ -1,31 +1,18 @@
-//https://www.geeksforgeeks.org/data-structures/
 
-public class Main {
-    public static void main(String[] args) {
-        
-        int [] arr = {2,1,3,4,5};
+class Main {
+  public static void main(String[] args) {
 
+    StackArray stackArray = new StackArray(5);
+    stackArray.push(10);
+    stackArray.push(20);
+    stackArray.push(30);
+    stackArray.push(40);
 
-        for (int i = 0; i < arr.length; i++){
-            boolean swapped = false;
-            for (int j = 0; j < arr.length-i-1; j++){
-                if(arr[j] > arr[j+1]){
-                    swapped = true;
-                    int tem = arr [j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] = tem;
-                }
-            }
-            if(!swapped){
-                System.out.println("broken");
-                break;
-            }
-        }
+    System.out.println("Size of the StackArray: " + stackArray.size());
 
-        for(int num : arr){
-            System.out.print(num);
-        }
-    }
-
+    System.out.println("Top element of the StackArray: " + stackArray.peek());
+    System.out.println("Pop element from the StackArray: " + stackArray.pop());
+    System.out.println("StackArray is full: " + stackArray.isFull());
+  }
 
 }
