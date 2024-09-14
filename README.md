@@ -23,8 +23,8 @@ This repository provides Java implementations of fundamental data structures suc
 
 - [x] Add Arrays section
 - [x] Add Linked Lists section
-- [ ] Add Stacks section
-- [ ] Add Queues section
+- [x] Add Stacks section
+- [x] Add Queues section
 - [ ] Add Trees section
 - [ ] Add Graphs section
 - [ ] Add Hashing section
