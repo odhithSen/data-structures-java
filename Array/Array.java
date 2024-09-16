@@ -14,7 +14,7 @@ public class Array {
         moreNumbers[1] = 20;
 
         int firstElement = numbers[0]; // Access the first element (1)
-        int thirdElement = numbers[2]; // Access the third element (3)
+        // int thirdElement = numbers[2]; // Access the third element (3)
         System.out.println(firstElement);
 
         numbers[1] = 20; // Modify the second element to 20
